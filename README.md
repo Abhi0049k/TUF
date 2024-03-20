@@ -24,8 +24,6 @@ This project aims to create a web application that facilitates the submission an
    - Timestamp of submission
    - Source code (display limited to the initial 100 characters)
 
-The application must function seamlessly with data stored in MySQL tables. Both the frontend and backend applications need to be hosted.
-
 
 ## Installation
 
