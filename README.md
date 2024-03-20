@@ -30,31 +30,35 @@ The application must function seamlessly with data stored in MySQL tables. Both 
 
 1. Clone the repository:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/Abhi0049k/TUF.git
-   \`\`\`
+   ```
 
 2. Install dependencies for frontend and backend:
 
-   \`\`\`bash
+   ```bash
    cd frontend
    yarn 
+   ```
 
+   ```bash
    cd ../backend
    yarn 
-   \`\`\`
+   ```
 
 3. Configure MySQL database and Redis server.
 
 4. Start the frontend and backend servers:
 
-   \`\`\`bash
+   ```bash
    cd frontend
    yarn run start
+   ```
 
+   ```bash
    cd ../backend
    yarn run start
-   \`\`\`
+   ```
 
 ## Project Structure
 
