@@ -24,6 +24,11 @@ This project aims to create a web application that facilitates the submission an
    - Timestamp of submission
    - Source code (display limited to the initial 100 characters)
 
+## URL
+
+Frontend URL: https://frontend-6unnb83wn-abhi0049ks-projects.vercel.app/
+
+Backend URL: https://tuf-40np.onrender.com/
 
 ## Installation
 
@@ -63,3 +68,4 @@ This project aims to create a web application that facilitates the submission an
 
 - **frontend**: Contains the React application for the frontend.
 - **backend**: Contains the Express application for the backend.
+- **README.md**: Contains the details about the project.
