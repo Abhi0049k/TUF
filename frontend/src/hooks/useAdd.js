@@ -39,6 +39,7 @@ export const useAdd = () => {
             setStdin('')
             setUsername('')
         } catch (err) {
+            alert("Something went wrong while submitting details, try after sometimes")
             console.log(err);
             console.log("Something Went wrong!!!");
         }

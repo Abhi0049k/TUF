@@ -5,6 +5,7 @@
 - Express
 - React
 - MySQL
+- Redis
 
 ## Description
 
@@ -64,4 +65,3 @@ The application must function seamlessly with data stored in MySQL tables. Both 
 
 - **frontend**: Contains the React application for the frontend.
 - **backend**: Contains the Express application for the backend.
-- **database**: Includes SQL scripts for database setup.
